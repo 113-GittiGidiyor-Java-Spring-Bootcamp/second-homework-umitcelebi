@@ -20,7 +20,7 @@ public class SchoolManagementApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SchoolManagementApplication.class, args);
-        saveToDatabase();
+        //saveToDatabase();
     }
 
     private static void saveToDatabase(){
